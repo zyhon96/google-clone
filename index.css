@@ -1,0 +1,98 @@
+body{
+margin: 0;
+}
+
+.navbar{
+display: flex;
+float: right;
+align-items: center;
+padding: 5px;
+}
+
+
+.navbar .one{
+margin: 5px;
+}
+.navbar .two{
+margin: 5px;
+}
+.navbar .right{
+    display: flex;
+
+    margin: 10px;
+    align-items: center;
+}
+
+.navbar .other2 img{
+    border-radius: 50%;
+}
+
+.google-logo{
+    
+   width: 300px;
+   margin: 0 auto;
+}
+
+.google-logo img{
+    width: 300px;
+    height: 300px;
+}
+
+
+.input{
+    width: 400px;
+    margin: 0 auto;
+    padding-bottom: 2rem;
+}
+
+.input input{
+    width: 400px;
+    height: 30px;
+    border-radius: 30px;
+    
+}
+
+.lucky{
+    width: 120px;
+    margin: 0 580px;
+    display: flex;
+    
+}
+
+.lucky button{
+width: 120px;
+margin-left: 30px;
+background-color: #f8f9fa;
+border: 1px solid #f8f9fa;
+border-radius: 4px;
+color: #3c4043;
+font-family: arial,sans-serif;
+font-size: 14px;
+margin: 11px 4px;
+padding: 0 16px;
+line-height: 27px;
+text-align: center;
+cursor: pointer;
+user-select: none;
+}
+
+
+
+.languages{
+display: flex;
+align-items: center;
+width: 600px;
+margin: 0 auto;
+}
+
+
+.languages .offer{
+width: 500px;
+}
+.languages .listlang ul{
+list-style-type: none;
+display: flex;
+align-items: center;
+margin: 5px;
+width: 500px;
+}
